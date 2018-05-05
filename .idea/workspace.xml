@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3509ef6-02ee-4cc7-a28d-1347232535c0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Dashboard.php" afterPath="$PROJECT_DIR$/application/controllers/Dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/Curl_library.php" afterPath="$PROJECT_DIR$/application/libraries/Curl_library.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/mobile/ios/TaproomView.php" afterPath="$PROJECT_DIR$/application/views/mobile/ios/TaproomView.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/mobile/ios/css/my-ios.css" afterPath="$PROJECT_DIR$/asset/mobile/ios/css/my-ios.css" />
+    </list>
+    <ignored path="doolally.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="doolally" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="my-ios.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset/mobile/ios/css/my-ios.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="502" column="40" selection-start-line="502" selection-start-column="40" selection-end-line="502" selection-end-column="40" />
+              <folding>
+                <element signature="e#30928#31907#0" expanded="false" />
+                <element signature="e#31909#32948#0" expanded="false" />
+                <element signature="e#32950#34009#0" expanded="false" />
+                <element signature="e#34011#35150#0" expanded="false" />
+                <element signature="e#35152#36231#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-ios.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset/mobile/ios/js/my-ios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="961" column="30" selection-start-line="961" selection-start-column="30" selection-end-line="961" selection-end-column="30" />
+              <folding>
+                <element signature="e#1335#2916#0" expanded="false" />
+                <element signature="e#1836#2912#0" expanded="false" />
+                <element signature="e#2967#6338#0" expanded="false" />
+                <element signature="e#3550#4924#0" expanded="false" />
+                <element signature="e#6392#6929#0" expanded="false" />
+                <element signature="e#6977#8335#0" expanded="false" />
+                <element signature="e#7201#7726#0" expanded="false" />
+                <element signature="e#8411#21354#0" expanded="false" />
+                <element signature="e#21432#31821#0" expanded="false" />
+                <element signature="e#32731#32821#0" expanded="false" />
+                <element signature="e#32860#36903#0" expanded="false" />
+                <element signature="e#38444#39701#0" expanded="false" />
+                <element signature="e#39774#40305#0" expanded="false" />
+                <element signature="n#!!block;n#renderLinks#0" expanded="false" />
+                <element signature="e#42877#44297#0" expanded="false" />
+                <element signature="n#!!block;n#preventAct#0" expanded="false" />
+                <element signature="e#45943#46145#0" expanded="false" />
+                <element signature="n#!!block;n#makeTxtShort#0" expanded="false" />
+                <element signature="n#!!block;n#checkNewEvents#0" expanded="false" />
+                <marker date="1477999113674" expanded="true" signature="37404:38228" ph="/*...*/" />
+                <marker date="1477999113674" expanded="false" signature="44805:45537" ph="{...}" />
+                <marker date="1477999113674" expanded="true" signature="47152:47158" ph=" " />
+                <marker date="1477999113674" expanded="true" signature="47206:47212" ph=" " />
+                <marker date="1477999113674" expanded="true" signature="47212:47218" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/mobile/Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="309" column="24" selection-start-line="309" selection-start-column="24" selection-end-line="309" selection-end-column="24" />
+              <folding>
+                <element signature="n#about#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#eventFetch#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#editEvent#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#createEvent#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#eventDetails#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#signupList#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#thankYou#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#checkUser#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#appLogout#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#saveEvent#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="e#20180#21684#0#PHP" expanded="false" />
+                <element signature="n#updateEvent#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#returnAllFeeds#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#sortNjoin#0;n#Main#0;n#!!top" expanded="false" />
+                <element signature="n#renderLink#0;n#Main#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="669" column="69" selection-start-line="669" selection-start-column="69" selection-end-line="669" selection-end-column="69" />
+              <folding>
+                <element signature="n#instaMojoRecord#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#saveFeedback#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#fnbTagSet#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#uploadFiles#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#image_thumb#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#cropEventImage#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="e#15879#19091#0#PHP" expanded="false" />
+                <element signature="n#uploadEventFiles#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#editEvent#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#updateEvent#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#eventEmailApprove#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#eventApproved#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#eventDeclined#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#setEventDeActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#setEventActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#deleteCompEvent#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#deleteEventAtt#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#setFnbActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#setFnbDeActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#deleteFnb#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#editFnb#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#deleteFnbAtt#0;n#Dashboard#0;n#!!top" expanded="false" />
+                <element signature="n#updatefnb#0;n#Dashboard#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="99" column="56" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaproomView.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/TaproomView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <folding>
+                <marker date="1477999135549" expanded="true" signature="1294:1343" ph="..." />
+                <marker date="1477999135549" expanded="true" signature="1294:1544" ph="..." />
+                <marker date="1477999135549" expanded="true" signature="1380:1544" ph="..." />
+                <marker date="1477999135549" expanded="true" signature="1700:1870" ph="..." />
+                <marker date="1477999135549" expanded="true" signature="1777:1870" ph="..." />
+                <marker date="1477999135549" expanded="true" signature="2794:2919" ph="..." />
+                <marker date="1477999135549" expanded="true" signature="2827:2919" ph="..." />
+                <marker date="1477999135549" expanded="true" signature="4703:4769" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Users.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="86" column="5" selection-start-line="69" selection-start-column="4" selection-end-line="86" selection-end-column="5" />
+              <folding>
+                <element signature="n#index#0;n#Users#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MobileHomeView.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/MobileHomeView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="929" column="101" selection-start-line="929" selection-start-column="101" selection-end-line="929" selection-end-column="114" />
+              <folding>
+                <element signature="e#8197#22662#0#PHP" expanded="false" />
+                <element signature="e#22707#34654#0#PHP" expanded="false" />
+                <element signature="e#50148#50472#0#PHP" expanded="false" />
+                <element signature="e#71743#71875#0#PHP" expanded="false" />
+                <marker date="1477554027741" expanded="true" signature="81909:81928" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/application" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/application" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/Users.php" />
+        <option value="$PROJECT_DIR$/application/views/emailtemplates/memberWelcomeMailView.php" />
+        <option value="$PROJECT_DIR$/application/views/OfferCheckView.php" />
+        <option value="$PROJECT_DIR$/application/models/Login_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Home.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Generalfunction_library.php" />
+        <option value="$PROJECT_DIR$/application/views/MugClubView.php" />
+        <option value="$PROJECT_DIR$/application/views/PageThankYouView.php" />
+        <option value="$PROJECT_DIR$/application/models/Users_model.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/ThankYouView.php" />
+        <option value="$PROJECT_DIR$/application/core/MY_Controller.php" />
+        <option value="$PROJECT_DIR$/application/libraries/GoogleUrlApi.php" />
+        <option value="$PROJECT_DIR$/application/views/emailtemplates/membershipRenewMailView.php" />
+        <option value="$PROJECT_DIR$/application/views/MailSendView.php" />
+        <option value="$PROJECT_DIR$/application/views/common/GlobaljsView.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/EventView.php" />
+        <option value="$PROJECT_DIR$/asset/mobile/js/croppic.min.js" />
+        <option value="$PROJECT_DIR$/application/views/emailtemplates/eventDeclineMailView.php" />
+        <option value="$PROJECT_DIR$/application/views/emailtemplates/eventCancelMailView.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Sendemail_library.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/MyEventsView.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/signUpListView.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/EventSingleView.php" />
+        <option value="$PROJECT_DIR$/application/views/emailtemplates/eventVerifyMailView.php" />
+        <option value="$PROJECT_DIR$/application/views/emailtemplates/newEventMailView.php" />
+        <option value="$PROJECT_DIR$/application/config/event_types.php" />
+        <option value="$PROJECT_DIR$/asset/css/general_style.css" />
+        <option value="$PROJECT_DIR$/application/views/DashboardView.php" />
+        <option value="$PROJECT_DIR$/application/models/Dashboard_model.php" />
+        <option value="$PROJECT_DIR$/application/models/Cron_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Cron.php" />
+        <option value="$PROJECT_DIR$/asset/mobile/css/timepicker.less" />
+        <option value="$PROJECT_DIR$/asset/mobile/css/timepicker.css" />
+        <option value="$PROJECT_DIR$/asset/mobile/js/bootstrap-timepicker.js" />
+        <option value="$PROJECT_DIR$/application/views/common/MobilestyleView.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/EventAddView.php" />
+        <option value="$PROJECT_DIR$/application/views/emailtemplates/eventApproveMailView.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/ContactUsView.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/EventEditView.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/MobileHomeView.php" />
+        <option value="$PROJECT_DIR$/application/views/common/MobilejsView.php" />
+        <option value="$PROJECT_DIR$/application/config/constants.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/JukeboxView.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Curl_library.php" />
+        <option value="$PROJECT_DIR$/asset/mobile/ios/css/my-ios.css" />
+        <option value="$PROJECT_DIR$/asset/mobile/ios/js/my-ios.js" />
+        <option value="$PROJECT_DIR$/application/views/mobile/ios/TaproomView.php" />
+        <option value="$PROJECT_DIR$/application/controllers/mobile/Main.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Dashboard.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doolally" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mobile" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="158" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="159" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="159" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="803" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="159" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="158" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="159" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="803" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/doolally/application/views/mobile/ios/EventEditView.php&#10;currentLocation&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\doolally\asset\mobile\android\css" />
+      <recent name="C:\xampp\htdocs\doolally\asset\mobile\ios\css" />
+      <recent name="C:\xampp\htdocs\doolally\application\views\mobile\ios" />
+      <recent name="C:\xampp\htdocs\doolally\application\controllers\mobile" />
+      <recent name="C:\xampp\htdocs\doolally\application\views\errors" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\doolally\application\views\mobile\ios" />
+      <recent name="C:\xampp\htdocs\doolally\asset\mobile\js" />
+      <recent name="C:\xampp\htdocs\doolally\asset\mobile\css" />
+      <recent name="C:\xampp\htdocs\doolally\asset\mobile\fonts" />
+      <recent name="C:\xampp\htdocs\doolally\asset\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3509ef6-02ee-4cc7-a28d-1347232535c0" name="Default" comment="" />
+      <created>1465376535143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465376535143</updated>
+      <workItem from="1465376539480" duration="70455000" />
+      <workItem from="1465654647427" duration="105804000" />
+      <workItem from="1466055692525" duration="7679000" />
+      <workItem from="1466065665879" duration="21957000" />
+      <workItem from="1466141754369" duration="3973000" />
+      <workItem from="1466149520969" duration="17082000" />
+      <workItem from="1466182109129" duration="6542000" />
+      <workItem from="1466189545972" duration="1554000" />
+      <workItem from="1466239479692" duration="34683000" />
+      <workItem from="1466445465826" duration="14620000" />
+      <workItem from="1466498060883" duration="81612000" />
+      <workItem from="1466923678642" duration="34872000" />
+      <workItem from="1467049671118" duration="580000" />
+      <workItem from="1467094621837" duration="16413000" />
+      <workItem from="1467140054582" duration="12702000" />
+      <workItem from="1467270341003" duration="2206000" />
+      <workItem from="1467274624572" duration="10151000" />
+      <workItem from="1467311778247" duration="15406000" />
+      <workItem from="1467612661115" duration="3874000" />
+      <workItem from="1467718894865" duration="10512000" />
+      <workItem from="1467792501850" duration="54031000" />
+      <workItem from="1468078807296" duration="108540000" />
+      <workItem from="1468511666860" duration="144000" />
+      <workItem from="1468563163713" duration="5242000" />
+      <workItem from="1468662278629" duration="74104000" />
+      <workItem from="1469087830121" duration="32343000" />
+      <workItem from="1469295931852" duration="150528000" />
+      <workItem from="1470309298098" duration="82574000" />
+      <workItem from="1471006887503" duration="25564000" />
+      <workItem from="1471278515829" duration="40028000" />
+      <workItem from="1471848446815" duration="10887000" />
+      <workItem from="1471938414826" duration="14726000" />
+      <workItem from="1472025274695" duration="28400000" />
+      <workItem from="1472189657769" duration="59805000" />
+      <workItem from="1472383536877" duration="76965000" />
+      <workItem from="1473071125433" duration="69545000" />
+      <workItem from="1473658063764" duration="6612000" />
+      <workItem from="1473671492190" duration="8956000" />
+      <workItem from="1473752054617" duration="57060000" />
+      <workItem from="1474272937371" duration="60543000" />
+      <workItem from="1474614407165" duration="125842000" />
+      <workItem from="1475431819192" duration="66892000" />
+      <workItem from="1475828867200" duration="51585000" />
+      <workItem from="1476430900819" duration="72519000" />
+      <workItem from="1477208185635" duration="80476000" />
+    </task>
+    <task id="LOCAL-00132" summary="event share link added">
+      <created>1473162705917</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1473162705917</updated>
+    </task>
+    <task id="LOCAL-00133" summary="event add page modified">
+      <created>1473237975694</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1473237975694</updated>
+    </task>
+    <task id="LOCAL-00134" summary="event add page modified">
+      <created>1473248762170</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1473248762170</updated>
+    </task>
+    <task id="LOCAL-00135" summary="event add page design completed">
+      <created>1473251376407</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1473251376407</updated>
+    </task>
+    <task id="LOCAL-00136" summary="sharing changes">
+      <created>1473338564241</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1473338564241</updated>
+    </task>
+    <task id="LOCAL-00137" summary="create event chnages">
+      <created>1473582751536</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1473582751662</updated>
+    </task>
+    <task id="LOCAL-00138" summary="event creating and my dashboard is done">
+      <created>1474027795650</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1474027795650</updated>
+    </task>
+    <task id="LOCAL-00139" summary="event creating and my dashboard is done">
+      <created>1474030323750</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1474030323750</updated>
+    </task>
+    <task id="LOCAL-00140" summary="some desiggn changes">
+      <created>1474290882247</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1474290882247</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Added a event verify mail">
+      <created>1474361682674</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1474361682674</updated>
+    </task>
+    <task id="LOCAL-00142" summary="event verify mail fix">
+      <created>1474365413266</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1474365413266</updated>
+    </task>
+    <task id="LOCAL-00143" summary="event verify mail fix">
+      <created>1474367068198</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1474367068198</updated>
+    </task>
+    <task id="LOCAL-00144" summary="my events dashboard updated">
+      <created>1474553785041</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1474553785041</updated>
+    </task>
+    <task id="LOCAL-00145" summary="instamojo redirection url capture">
+      <created>1474630479607</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1474630479608</updated>
+    </task>
+    <task id="LOCAL-00146" summary="event emails fixed">
+      <created>1474633014850</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1474633014850</updated>
+    </task>
+    <task id="LOCAL-00147" summary="instamojo booking process done">
+      <created>1474659092599</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1474659092599</updated>
+    </task>
+    <task id="LOCAL-00148" summary="instamojo booking process done">
+      <created>1474697201506</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1474697201506</updated>
+    </task>
+    <task id="LOCAL-00149" summary="short url for sharing is done........">
+      <created>1474966840856</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1474966840856</updated>
+    </task>
+    <task id="LOCAL-00150" summary="event icon actions added">
+      <created>1475064513461</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1475064513461</updated>
+    </task>
+    <task id="LOCAL-00151" summary="many bugs fixed....">
+      <created>1475148012699</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1475148012699</updated>
+    </task>
+    <task id="LOCAL-00152" summary="time slot blocked feature">
+      <created>1475151666965</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1475151666965</updated>
+    </task>
+    <task id="LOCAL-00153" summary="email fix">
+      <created>1475155871905</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1475155871905</updated>
+    </task>
+    <task id="LOCAL-00154" summary="optimisation of app">
+      <created>1475231999276</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1475231999276</updated>
+    </task>
+    <task id="LOCAL-00155" summary="optimisation of app">
+      <created>1475235075000</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1475235075000</updated>
+    </task>
+    <task id="LOCAL-00156" summary="cropping image plugin added">
+      <created>1475390189121</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1475390189121</updated>
+    </task>
+    <task id="LOCAL-00157" summary="minor bug fixes">
+      <created>1475485965530</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1475485965531</updated>
+    </task>
+    <task id="LOCAL-00158" summary="event mail fix and event adding time fixed">
+      <created>1475490207333</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1475490207333</updated>
+    </task>
+    <task id="LOCAL-00159" summary="feedback graph">
+      <created>1475501047413</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1475501047413</updated>
+    </task>
+    <task id="LOCAL-00160" summary="changed alert box everywhere">
+      <created>1475661192856</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1475661192856</updated>
+    </task>
+    <task id="LOCAL-00161" summary="mail fix">
+      <created>1475662518734</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1475662518734</updated>
+    </task>
+    <task id="LOCAL-00162" summary="icon fix">
+      <created>1475666807700</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1475666807700</updated>
+    </task>
+    <task id="LOCAL-00163" summary="events dashboard update and other improvements">
+      <created>1475755651996</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1475755651996</updated>
+    </task>
+    <task id="LOCAL-00164" summary="events dashboard update and other improvements">
+      <created>1475760440373</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1475760440373</updated>
+    </task>
+    <task id="LOCAL-00165" summary="event delete fix">
+      <created>1475761668174</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1475761668174</updated>
+    </task>
+    <task id="LOCAL-00166" summary="alert box fix">
+      <created>1475910225687</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1475910225687</updated>
+    </task>
+    <task id="LOCAL-00167" summary="signup List added">
+      <created>1476098709113</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1476098709113</updated>
+    </task>
+    <task id="LOCAL-00168" summary="new cropping tool added">
+      <created>1476341233465</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1476341233465</updated>
+    </task>
+    <task id="LOCAL-00169" summary="time format fix and cropper fix">
+      <created>1476351240712</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1476351240712</updated>
+    </task>
+    <task id="LOCAL-00170" summary="instagram posts updated">
+      <created>1476436425573</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1476436425573</updated>
+    </task>
+    <task id="LOCAL-00171" summary="events calendar glance">
+      <created>1476706749761</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1476706749761</updated>
+    </task>
+    <task id="LOCAL-00172" summary="fnb location tagging from dashboard">
+      <created>1476873772524</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1476873772524</updated>
+    </task>
+    <task id="LOCAL-00173" summary="fnb and events section sorting according to location is done">
+      <created>1476957712006</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1476957712006</updated>
+    </task>
+    <task id="LOCAL-00174" summary="event image scroll fix">
+      <created>1476965020040</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1476965020040</updated>
+    </task>
+    <task id="LOCAL-00175" summary="event calendar added">
+      <created>1477221066366</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1477221066367</updated>
+    </task>
+    <task id="LOCAL-00176" summary="event calendar added with auto scroll">
+      <created>1477294751316</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1477294751316</updated>
+    </task>
+    <task id="LOCAL-00177" summary="some bug fixes">
+      <created>1477313467435</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1477313467435</updated>
+    </task>
+    <task id="LOCAL-00178" summary="clock change and minor bug fix and contact screen added">
+      <created>1477489240723</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1477489240723</updated>
+    </task>
+    <task id="LOCAL-00179" summary="location fetching for jukebox added">
+      <created>1477555454542</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1477555454542</updated>
+    </task>
+    <task id="LOCAL-00180" summary="jukebox now playing music added">
+      <created>1477651010185</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1477651010185</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1836588000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27987897" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="optimisation of app" />
+    <MESSAGE value="cropping image plugin added" />
+    <MESSAGE value="minor bug fixes" />
+    <MESSAGE value="event mail fix and event adding time fixed" />
+    <MESSAGE value="feedback graph" />
+    <MESSAGE value="changed alert box everywhere" />
+    <MESSAGE value="mail fix" />
+    <MESSAGE value="icon fix" />
+    <MESSAGE value="events dashboard update and other improvements" />
+    <MESSAGE value="event delete fix" />
+    <MESSAGE value="alert box fix" />
+    <MESSAGE value="signup List added" />
+    <MESSAGE value="new cropping tool added" />
+    <MESSAGE value="time format fix and cropper fix" />
+    <MESSAGE value="instagram posts updated" />
+    <MESSAGE value="events calendar glance" />
+    <MESSAGE value="fnb location tagging from dashboard" />
+    <MESSAGE value="fnb and events section sorting according to location is done" />
+    <MESSAGE value="event image scroll fix" />
+    <MESSAGE value="event calendar added" />
+    <MESSAGE value="event calendar added with auto scroll" />
+    <MESSAGE value="some bug fixes" />
+    <MESSAGE value="clock change and minor bug fix and contact screen added" />
+    <MESSAGE value="location fetching for jukebox added" />
+    <MESSAGE value="jukebox now playing music added" />
+    <option name="LAST_COMMIT_MESSAGE" value="jukebox now playing music added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/isotope.pkgd.min.js" />
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/jquery.mixitup.min.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/MyEventsView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3014">
+          <caret line="246" column="185" selection-start-line="246" selection-start-column="185" selection-end-line="246" selection-end-column="223" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/fullcalendar.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/css/fullcalendar.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/moment.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/MugClubView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8195">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/GlobaljsView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/DashboardView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-869">
+          <caret line="2054" column="13" selection-start-line="2054" selection-start-column="13" selection-end-line="2054" selection-end-column="13" />
+          <folding>
+            <marker date="1476879059124" expanded="true" signature="45480:45603" ph="..." />
+            <marker date="1476879059124" expanded="true" signature="54794:54850" ph="..." />
+            <marker date="1476879059124" expanded="true" signature="55318:55374" ph="..." />
+            <marker date="1476879059124" expanded="true" signature="55842:55898" ph="..." />
+            <marker date="1476879059124" expanded="true" signature="110490:110496" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Dashboard_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="653" column="20" selection-start-line="653" selection-start-column="20" selection-end-line="653" selection-end-column="20" />
+          <folding>
+            <element signature="n#getRegulars#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#getIrregulars#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#saveDashboardRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#getDashboardRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#getAllDashboardRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#saveInstaMojoRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#updateInstaMojoRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#getAllInstamojoRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#saveFnbAttachment#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#getAllFnB#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#getFnbAttById#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#getAllEvents#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#activateEventRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <element signature="n#deActivateEventRecord#0;n#Dashboard_Model#0;n#!!top" expanded="false" />
+            <marker date="1477391125982" expanded="true" signature="1840:2133" ph="SELECT DISTI... " />
+            <marker date="1477391125982" expanded="true" signature="1857:2121" ph="SELECT count... mugId" />
+            <marker date="1477391125982" expanded="true" signature="1879:2113" ph="SELECT m.mug... mugmaster" />
+            <marker date="1477391125982" expanded="true" signature="3412:3706" ph="SELECT DISTI... " />
+            <marker date="1477391125982" expanded="true" signature="3429:3694" ph="SELECT count... mugId" />
+            <marker date="1477391125982" expanded="true" signature="3451:3686" ph="SELECT m.mug... mugmaster" />
+            <marker date="1477391125982" expanded="true" signature="4986:5153" ph="SELECT DISTI... " />
+            <marker date="1477391125982" expanded="true" signature="8121:8959" ph="SELECT DISTI... " />
+            <marker date="1477391125982" expanded="true" signature="8271:8363" ph="SELECT COUNT... usersfeedbackmaster" />
+            <marker date="1477391125982" expanded="true" signature="8402:8494" ph="SELECT COUNT... usersfeedbackmaster" />
+            <marker date="1477391125982" expanded="true" signature="8534:8626" ph="SELECT COUNT... usersfeedbackmaster" />
+            <marker date="1477391125982" expanded="true" signature="10164:10213" ph="SELECT * FRO... feedbackweekscore" />
+            <marker date="1477391125982" expanded="true" signature="11039:11147" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="11039:11167" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="11516:11843" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="12000:12127" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="12000:12131" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="12000:12139" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="12000:12140" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="12309:12527" ph="SELECT fm.ta... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="12309:12528" ph="SELECT fm.ta... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="12874:12964" ph="SELECT fnbId... fnbattachment" />
+            <marker date="1477391125982" expanded="true" signature="12874:12965" ph="SELECT fnbId... fnbmaster" />
+            <marker date="1477391125982" expanded="true" signature="14057:14100" ph="SELECT fnbId... fnbattachment" />
+            <marker date="1477391125982" expanded="true" signature="14057:14122" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="14289:14988" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="15162:15224" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="15162:16014" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="15162:16015" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="15162:16047" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16209:16253" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16209:16268" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16209:16269" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16435:16724" ph="SELECT event... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16435:16725" ph="SELECT event... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16435:16752" ph="SELECT event... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16435:16829" ph="SELECT event... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16435:16832" ph="SELECT GROUP... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16994:17001" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16994:17708" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16994:17709" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="16994:17779" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="17803:17845" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="17803:17846" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="17803:17897" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="18072:18386" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="18559:18822" ph="SELECT um.fi... eventregistermaster" />
+            <marker date="1477391125982" expanded="true" signature="18559:18826" ph="SELECT um.fi... eventregistermaster" />
+            <marker date="1477391125982" expanded="true" signature="19461:20104" ph="SELECT em.ev... eventcompletedmaster" />
+            <marker date="1477391125982" expanded="true" signature="19461:20142" ph="SELECT em.ev... eventcompletedmaster" />
+            <marker date="1477391125982" expanded="true" signature="20315:20387" ph="SELECT * FRO... eventregistermaster" />
+            <marker date="1477391125982" expanded="true" signature="20315:20388" ph="SELECT * FRO... eventregistermaster" />
+            <marker date="1477391125982" expanded="true" signature="20315:20413" ph="SELECT * FRO... eventregistermaster" />
+            <marker date="1477391125982" expanded="true" signature="20315:20414" ph="SELECT * FRO... eventregistermaster" />
+            <marker date="1477391125982" expanded="true" signature="20752:20837" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="21165:21227" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="21165:21228" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="21165:21377" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="21165:21378" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="21165:21379" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="21165:21405" ph="SELECT * FRO... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="23157:23232" ph="SELECT filen... eventattachment" />
+            <marker date="1477391125982" expanded="true" signature="23407:24089" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="23407:24090" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="23407:24101" ph="SELECT em.ev... eventmaster" />
+            <marker date="1477391125982" expanded="true" signature="23407:24122" ph="SELECT em.ev... eventmaster" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Cron_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="82" column="36" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="36" />
+          <folding>
+            <marker date="1477391377581" expanded="true" signature="2109:2216" ph="INSERT INTO eventcompletedmaster... " />
+            <marker date="1477391377581" expanded="true" signature="2158:2216" ph="SELECT * FRO... eventmaster" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Dataformatinghtml_library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Generalfunction_library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-497">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/css/bootstrap-timepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/wickedpicker.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/wickedpicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/css/wickedpicker.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/bootstrap-timepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="126" column="27" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="27" />
+          <folding>
+            <marker date="1477474622371" expanded="true" signature="9255:9261" ph=" " />
+            <marker date="1477474622371" expanded="true" signature="9447:9453" ph=" " />
+            <marker date="1477474622371" expanded="true" signature="9660:9666" ph=" " />
+            <marker date="1477474622371" expanded="true" signature="10199:10205" ph=" " />
+            <marker date="1477474622371" expanded="true" signature="10645:10651" ph=" " />
+            <marker date="1477474622371" expanded="true" signature="10858:10864" ph=" " />
+            <marker date="1477474622371" expanded="true" signature="11336:11343" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/css/timepicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/EventEditView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/MobilestyleView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="110" selection-start-line="12" selection-start-column="110" selection-end-line="12" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/EventAddView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="93" column="77" selection-start-line="93" selection-start-column="77" selection-end-line="93" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/event_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <marker date="1476358464365" expanded="true" signature="708:3262" ph="..." />
+            <marker date="1476358464365" expanded="true" signature="740:3255" ph="..." />
+            <marker date="1476358464365" expanded="true" signature="799:1004" ph="..." />
+            <marker date="1476358464365" expanded="true" signature="1074:1350" ph="..." />
+            <marker date="1476358464365" expanded="true" signature="1430:1747" ph="..." />
+            <marker date="1476358464365" expanded="true" signature="1840:2156" ph="..." />
+            <marker date="1476358464365" expanded="true" signature="2220:3146" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Sendemail_library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="142" column="32" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
+          <folding>
+            <element signature="e#403#1290#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/emailtemplates/eventCancelMailView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/emailtemplates/eventApproveMailView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="20" column="133" selection-start-line="20" selection-start-column="133" selection-end-line="20" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/emailtemplates/eventDeclineMailView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/emailtemplates/eventVerifyMailView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="58" column="62" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/emailtemplates/membershipRenewMailView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/emailtemplates/newEventMailView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="230" selection-start-line="9" selection-start-column="226" selection-end-line="9" selection-end-column="230" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/js/jquery.geolocation.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_guide/libraries/config.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/EventEditView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="113" column="120" selection-start-line="113" selection-start-column="120" selection-end-line="113" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/MobilejsView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="305" column="24" selection-start-line="305" selection-start-column="13" selection-end-line="305" selection-end-column="24" />
+          <folding>
+            <marker date="1477555253265" expanded="true" signature="8426:9000" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/ContactUsView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/EventView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/JukeboxView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="31" column="78" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="89" />
+          <folding>
+            <marker date="1477647256693" expanded="true" signature="790:2279" ph="{...}" />
+            <marker date="1477647256693" expanded="true" signature="863:2261" ph="{...}" />
+            <marker date="1477647256693" expanded="true" signature="961:2239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Curl_library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Cron.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="122" column="56" selection-start-line="122" selection-start-column="56" selection-end-line="122" selection-end-column="56" />
+          <folding>
+            <element signature="n#getFacebookResponse#0;n#Cron#0;n#!!top" expanded="false" />
+            <element signature="n#weeklyFeedback#0;n#Cron#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mugclub_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="487" column="18" selection-start-line="487" selection-start-column="18" selection-end-line="490" selection-end-column="104" />
+          <folding>
+            <marker date="1473072243074" expanded="true" signature="1494:2551" ph="SELECT DISTI... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="1511:1602" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="1638:1746" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="1782:1890" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="1925:2033" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="2067:2137" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="2173:2260" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="2296:2383" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="2417:2504" ph="SELECT count... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="5860:5943" ph="SELECT mugId... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="6011:6097" ph="SELECT mugId... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="10450:10549" ph="INSERT INTO deletedmugmaster... " />
+            <marker date="1473072243074" expanded="true" signature="10495:10549" ph="SELECT * FRO... mugmaster" />
+            <marker date="1473072243074" expanded="true" signature="10771:10867" ph="INSERT INTO holdmugmaster... " />
+            <marker date="1473072243074" expanded="true" signature="10813:10867" ph="SELECT * FRO... mugmaster" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/MobileHomeView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="929" column="101" selection-start-line="929" selection-start-column="101" selection-end-line="929" selection-end-column="114" />
+          <folding>
+            <element signature="e#8197#22662#0#PHP" expanded="false" />
+            <element signature="e#22707#34654#0#PHP" expanded="false" />
+            <element signature="e#50148#50472#0#PHP" expanded="false" />
+            <element signature="e#71743#71875#0#PHP" expanded="false" />
+            <marker date="1477554027741" expanded="true" signature="81909:81928" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/ios/css/my-ios.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="502" column="40" selection-start-line="502" selection-start-column="40" selection-end-line="502" selection-end-column="40" />
+          <folding>
+            <element signature="e#30928#31907#0" expanded="false" />
+            <element signature="e#31909#32948#0" expanded="false" />
+            <element signature="e#32950#34009#0" expanded="false" />
+            <element signature="e#34011#35150#0" expanded="false" />
+            <element signature="e#35152#36231#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#checkUser#0;n#Login#0;n#!!top" expanded="false" />
+            <element signature="n#logout#0;n#Login#0;n#!!top" expanded="false" />
+            <element signature="n#changeSetting#0;n#Login#0;n#!!top" expanded="false" />
+            <element signature="n#pinChange#0;n#Login#0;n#!!top" expanded="false" />
+            <element signature="n#changePin#0;n#Login#0;n#!!top" expanded="false" />
+            <element signature="n#changePassword#0;n#Login#0;n#!!top" expanded="false" />
+            <element signature="n#mailPrank#0;n#Login#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="86" column="5" selection-start-line="69" selection-start-column="4" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <element signature="n#index#0;n#Users#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/mobile/ios/js/my-ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="961" column="30" selection-start-line="961" selection-start-column="30" selection-end-line="961" selection-end-column="30" />
+          <folding>
+            <element signature="e#1335#2916#0" expanded="false" />
+            <element signature="e#1836#2912#0" expanded="false" />
+            <element signature="e#2967#6338#0" expanded="false" />
+            <element signature="e#3550#4924#0" expanded="false" />
+            <element signature="e#6392#6929#0" expanded="false" />
+            <element signature="e#6977#8335#0" expanded="false" />
+            <element signature="e#7201#7726#0" expanded="false" />
+            <element signature="e#8411#21354#0" expanded="false" />
+            <element signature="e#21432#31821#0" expanded="false" />
+            <element signature="e#32731#32821#0" expanded="false" />
+            <element signature="e#32860#36903#0" expanded="false" />
+            <element signature="e#38444#39701#0" expanded="false" />
+            <element signature="e#39774#40305#0" expanded="false" />
+            <element signature="n#!!block;n#renderLinks#0" expanded="false" />
+            <element signature="e#42877#44297#0" expanded="false" />
+            <element signature="n#!!block;n#preventAct#0" expanded="false" />
+            <element signature="e#45943#46145#0" expanded="false" />
+            <element signature="n#!!block;n#makeTxtShort#0" expanded="false" />
+            <element signature="n#!!block;n#checkNewEvents#0" expanded="false" />
+            <marker date="1477999113674" expanded="true" signature="37404:38228" ph="/*...*/" />
+            <marker date="1477999113674" expanded="false" signature="44805:45537" ph="{...}" />
+            <marker date="1477999113674" expanded="true" signature="47152:47158" ph=" " />
+            <marker date="1477999113674" expanded="true" signature="47206:47212" ph=" " />
+            <marker date="1477999113674" expanded="true" signature="47212:47218" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/mobile/ios/TaproomView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <marker date="1477999135549" expanded="true" signature="1294:1343" ph="..." />
+            <marker date="1477999135549" expanded="true" signature="1294:1544" ph="..." />
+            <marker date="1477999135549" expanded="true" signature="1380:1544" ph="..." />
+            <marker date="1477999135549" expanded="true" signature="1700:1870" ph="..." />
+            <marker date="1477999135549" expanded="true" signature="1777:1870" ph="..." />
+            <marker date="1477999135549" expanded="true" signature="2794:2919" ph="..." />
+            <marker date="1477999135549" expanded="true" signature="2827:2919" ph="..." />
+            <marker date="1477999135549" expanded="true" signature="4703:4769" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/mobile/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="309" column="24" selection-start-line="309" selection-start-column="24" selection-end-line="309" selection-end-column="24" />
+          <folding>
+            <element signature="n#about#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#eventFetch#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#editEvent#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#createEvent#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#eventDetails#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#signupList#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#thankYou#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#checkUser#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#appLogout#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#saveEvent#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="e#20180#21684#0#PHP" expanded="false" />
+            <element signature="n#updateEvent#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#returnAllFeeds#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#sortNjoin#0;n#Main#0;n#!!top" expanded="false" />
+            <element signature="n#renderLink#0;n#Main#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="669" column="69" selection-start-line="669" selection-start-column="69" selection-end-line="669" selection-end-column="69" />
+          <folding>
+            <element signature="n#instaMojoRecord#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#saveFeedback#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#fnbTagSet#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#uploadFiles#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#image_thumb#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#cropEventImage#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="e#15879#19091#0#PHP" expanded="false" />
+            <element signature="n#uploadEventFiles#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#editEvent#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#updateEvent#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#eventEmailApprove#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#eventApproved#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#eventDeclined#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#setEventDeActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#setEventActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#deleteCompEvent#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#deleteEventAtt#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#setFnbActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#setFnbDeActive#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#deleteFnb#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#editFnb#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#deleteFnbAtt#0;n#Dashboard#0;n#!!top" expanded="false" />
+            <element signature="n#updatefnb#0;n#Dashboard#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="99" column="56" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
